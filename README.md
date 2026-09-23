@@ -62,4 +62,4 @@ Final predictions for the `test.csv` dataset are automatically exported to a new
 
 ---
 
-Whenever you are ready, share the code for the mall customer segmentation project (Prodigy ML 2) and we will generate the next README.
+
